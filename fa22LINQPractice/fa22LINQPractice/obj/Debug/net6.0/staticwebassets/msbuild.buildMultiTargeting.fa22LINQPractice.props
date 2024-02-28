@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/fa22LINQPractice.props" />
+</Project>

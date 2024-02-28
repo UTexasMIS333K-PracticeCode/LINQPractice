@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{28FB736D-A299-496E-AEFE-30970C7C9A69}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="fa22LINQPractice/Seeding/SeedAllCards.cs">
+    <Files>
+      <File FileName="fa22LINQPractice/Seeding/SeedAllCards.cs" Line="11" Column="1" />
+      <File FileName="fa22LINQPractice/Program.cs" Line="19" Column="16" />
+      <File FileName="fa22LINQPractice/DAL/AppDbContext.cs" Line="25" Column="1" />
+      <File FileName="fa22LINQPractice/Controllers/HomeController.cs" Line="34" Column="1" />
+      <File FileName="fa22LINQPractice/Views/Home/Index.cshtml" Line="21" Column="12" />
+      <File FileName="fa22LINQPractice/Models/Card.cs" Line="11" Column="15" />
+      <File FileName="fa22LINQPractice/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="fa22LINQPractice/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="fa22LINQPractice/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="fa22LINQPractice/Views/Shared/_Layout.cshtml" Line="15" Column="21" />
+      <File FileName="fa22LINQPractice/Models/AppUser.cs" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fa22LINQPractice" expanded="True">
+            <Node name="fa22LINQPractice" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Seeding" expanded="True">
+                <Node name="SeedAllCards.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.fa22LINQPractice PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
