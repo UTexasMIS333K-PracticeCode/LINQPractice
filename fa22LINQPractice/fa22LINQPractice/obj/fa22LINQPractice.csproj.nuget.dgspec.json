@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rkh393/Documents/GitHub/sp23LINQPractice/fa22LINQPractice/fa22LINQPractice/fa22LINQPractice.csproj": {}
+    "/Users/rkh393/Documents/MIS333K Github/LINQPractice/fa22LINQPractice/fa22LINQPractice/fa22LINQPractice.csproj": {}
   },
   "projects": {
-    "/Users/rkh393/Documents/GitHub/sp23LINQPractice/fa22LINQPractice/fa22LINQPractice/fa22LINQPractice.csproj": {
+    "/Users/rkh393/Documents/MIS333K Github/LINQPractice/fa22LINQPractice/fa22LINQPractice/fa22LINQPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rkh393/Documents/GitHub/sp23LINQPractice/fa22LINQPractice/fa22LINQPractice/fa22LINQPractice.csproj",
+        "projectUniqueName": "/Users/rkh393/Documents/MIS333K Github/LINQPractice/fa22LINQPractice/fa22LINQPractice/fa22LINQPractice.csproj",
         "projectName": "fa22LINQPractice",
-        "projectPath": "/Users/rkh393/Documents/GitHub/sp23LINQPractice/fa22LINQPractice/fa22LINQPractice/fa22LINQPractice.csproj",
+        "projectPath": "/Users/rkh393/Documents/MIS333K Github/LINQPractice/fa22LINQPractice/fa22LINQPractice/fa22LINQPractice.csproj",
         "packagesPath": "/Users/rkh393/.nuget/packages/",
-        "outputPath": "/Users/rkh393/Documents/GitHub/sp23LINQPractice/fa22LINQPractice/fa22LINQPractice/obj/",
+        "outputPath": "/Users/rkh393/Documents/MIS333K Github/LINQPractice/fa22LINQPractice/fa22LINQPractice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rkh393/.nuget/NuGet/NuGet.Config"
